@@ -1,0 +1,14 @@
+D:\Web_API_QL_CAFE\Web_API\Data\bin\Debug\net6.0\Data.deps.json
+D:\Web_API_QL_CAFE\Web_API\Data\bin\Debug\net6.0\Data.dll
+D:\Web_API_QL_CAFE\Web_API\Data\bin\Debug\net6.0\Data.pdb
+D:\Web_API_QL_CAFE\Web_API\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+D:\Web_API_QL_CAFE\Web_API\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web_API_QL_CAFE\Web_API\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+D:\Web_API_QL_CAFE\Web_API\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+D:\Web_API_QL_CAFE\Web_API\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+D:\Web_API_QL_CAFE\Web_API\Data\obj\Debug\net6.0\Data.dll
+D:\Web_API_QL_CAFE\Web_API\Data\obj\Debug\net6.0\refint\Data.dll
+D:\Web_API_QL_CAFE\Web_API\Data\obj\Debug\net6.0\Data.pdb
+D:\Web_API_QL_CAFE\Web_API\Data\obj\Debug\net6.0\ref\Data.dll
+D:\Web_API_QL_CAFE\Web_API\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+D:\Web_API_QL_CAFE\Web_API\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
